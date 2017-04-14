@@ -20,7 +20,7 @@ import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 //import java.io.IOException;
 //import java.io.PrintWriter;
-
+ 
 public class PersonForm extends JFrame {
 
 	private JPanel contentPane;

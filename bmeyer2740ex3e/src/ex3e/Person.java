@@ -5,7 +5,7 @@ import java.io.PrintWriter;
 
 public class Person {
 	private static PrintWriter outputFile;
-	
+	 
 	private String name;
 	private String address;
 	private int age;
